@@ -1,0 +1,73 @@
+# .NET build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+logs/
+
+# Entity Framework
+Migrations/
+
+# User secrets
+secrets.json
+
+# Test results
+TestResults/
+
+# NCrunch
+.ncrunch*
+*crunch*.local.xml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# DotCover
+*.dotCover
+
+# Coverage
+coverage/
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Backup & VS
+*.bak
+*.backup
+*.vspscc
+*.vssscc
+
+# Others
+*.dbmdl
+*.pdb
+*.cache
+*.config.user
+
+# Linux/Mac
+*.swp
+*~ 

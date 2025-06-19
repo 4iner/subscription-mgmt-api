@@ -4,6 +4,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>subscription_mgmt_api</RootNamespace>
+    <AssemblyName>subscription-mgmt-api</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>

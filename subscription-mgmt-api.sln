@@ -1,0 +1,26 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CFA18572-7C95-4BEE-B5ED-26E5EF4F6ABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "subscription-mgmt-api", "src/subscription-mgmt-api/subscription-mgmt-api.csproj", "{269196C1-1550-4C74-9698-EFE2C543B4B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269196C1-1550-4C74-9698-EFE2C543B4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269196C1-1550-4C74-9698-EFE2C543B4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269196C1-1550-4C74-9698-EFE2C543B4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269196C1-1550-4C74-9698-EFE2C543B4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{269196C1-1550-4C74-9698-EFE2C543B4B6} = {CFA18572-7C95-4BEE-B5ED-26E5EF4F6ABA}
+	EndGlobalSection
+EndGlobal

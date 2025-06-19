@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/moofasa/Projects/subscription-mgmt-api/SubscriptionMgmtApi/SubscriptionMgmtApi.csproj": {}
+    "/home/moofasa/Projects/subscription-mgmt-api/SubscriptionMgmtApi.csproj": {}
   },
   "projects": {
-    "/home/moofasa/Projects/subscription-mgmt-api/SubscriptionMgmtApi/SubscriptionMgmtApi.csproj": {
+    "/home/moofasa/Projects/subscription-mgmt-api/SubscriptionMgmtApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/moofasa/Projects/subscription-mgmt-api/SubscriptionMgmtApi/SubscriptionMgmtApi.csproj",
+        "projectUniqueName": "/home/moofasa/Projects/subscription-mgmt-api/SubscriptionMgmtApi.csproj",
         "projectName": "SubscriptionMgmtApi",
-        "projectPath": "/home/moofasa/Projects/subscription-mgmt-api/SubscriptionMgmtApi/SubscriptionMgmtApi.csproj",
+        "projectPath": "/home/moofasa/Projects/subscription-mgmt-api/SubscriptionMgmtApi.csproj",
         "packagesPath": "/home/moofasa/.nuget/packages/",
-        "outputPath": "/home/moofasa/Projects/subscription-mgmt-api/SubscriptionMgmtApi/obj/",
+        "outputPath": "/home/moofasa/Projects/subscription-mgmt-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/moofasa/.nuget/NuGet/NuGet.Config"

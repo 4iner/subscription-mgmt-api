@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eyCpzXAKm+k=",
+  "dgSpecHash": "oKHd3tbN8+4=",
   "success": true,
-  "projectFilePath": "/home/moofasa/Projects/subscription-mgmt-api/SubscriptionMgmtApi/SubscriptionMgmtApi.csproj",
+  "projectFilePath": "/home/moofasa/Projects/subscription-mgmt-api/SubscriptionMgmtApi.csproj",
   "expectedPackageFiles": [
     "/home/moofasa/.nuget/packages/microsoft.aspnetcore.openapi/8.0.17/microsoft.aspnetcore.openapi.8.0.17.nupkg.sha512",
     "/home/moofasa/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
